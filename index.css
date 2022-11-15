@@ -1,0 +1,15 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  text-align: center;
+  height: 100vh;
+}
+.heading {
+  color: #ffffff;
+  font-family: "roboto";
+  font-size: 30px;
+}
+.image {
+  height: 200px;
+  width: 200px;
+}
